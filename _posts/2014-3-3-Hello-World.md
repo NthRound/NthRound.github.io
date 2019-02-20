@@ -1,10 +1,27 @@
 ---
 layout: post
-title: Barbara is VERYYYYY cool and up and running!
+title: Is Your Equity Locked Up?
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+![_config.yml]({{ site.baseurl }}/images/blog_post_1_equity_locked_up_infographic.png)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Do you own private company stock?  Would you like to sell… at least some?
+Join the club!
+With the dearth of IPOs and the surge of new ventures, many of us hold private stock (or options) with no clear path to liquidity.  On the flip-side, who wouldn’t love to get a piece of a hot new unicorn?  What’s going on here?  We can’t sell, and at the same time we can’t buy??  What the…
+Here’s the problem.  Private equity is woefully constrained by SEC regulations, transfer restrictions (the dreaded legends on the back of nearly every private stock certificate), and thin markets including crazy costs and severe discounts.  Unlike their publicly-traded brethren, private stock is trapped in a painful conundrum vexed by the deep spell of illiquidity.
+And who suffers from this?  Almost everyone!
+•	Founders and CEOs who would love to take some money off the table.
+•	Family members who haven’t enjoyed a peaceful Thanksgiving in ages.
+•	Angels and HNW investors who shy away from tying up more funds.
+•	Consultants and ex-employees who fear no way to monetize options.
+•	Venture capitalists who yearn for liquidity to focus on clear successes.
+•	Entrepreneurs who need funding yet struggle to portray an exit strategy.
+
+At Nth Round we are laser-focused on facilitating liquidity in private finance.  We are on a mission.  Using a SaaS model (and a bit of blockchain), we provide software that allows private companies to enjoy: 1) access to fresh capital, and 2) liquidity for shareholders.  At the same time, our solution avoids all the associated costs by keeping your company completely private and in your control.
+As one of our clients exclaimed, “Whoa.  This is the first elegant solution that I’ve ever seen in private equity.”  For a closely held company, an Nth Round means that all founders (or family members), investors (VCs), and key employees can buy or sell at least some of their shares anytime, without worry or hassle.
+Stay tuned for more Nth Round posts as we show you how your company can create its own dedicated private market so that the shareholders you choose can buy or sell their shares to the buyers you select anytime: easily, efficiently, and with zero friction.
+The world of private stock ownership is about to change forever.  Get ready.
+
+
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
