@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: The Official Nth Round Litquidity Blog
+name: The Official Litquidity Blog
 
 # Short bio or description (displayed in the header)
 description: Industry Trends & Thought Leadership
@@ -23,9 +23,9 @@ footer-links:
   email: sales@nthround.com
   facebook: nthround
   flickr:
-  github: barryclark/jekyll-now
+  github:
   instagram: nthround
-  linkedin: nth-round
+  linkedin: /company/nth-round
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: NthRound
